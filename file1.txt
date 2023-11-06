@@ -2,4 +2,6 @@ This is line1
 I am learning git commands
 This is my first file
 Vikas super awesome
+adding code to my first commit
+
 
